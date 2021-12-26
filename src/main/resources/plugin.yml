@@ -1,0 +1,7 @@
+author: AlexanderMolitor
+
+main: com.gmail.molitor.alexander.it.WorldDisplayPlugin
+name: WorldDisplay
+version: 1.0.0
+api-version: 1.18
+load: POSTWORLD

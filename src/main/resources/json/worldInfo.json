@@ -1,0 +1,27 @@
+{
+  "worldInfo": {
+    "world": {
+      "localisedNames": [
+        {"de_de": "Welt"},
+        {"en_us": "Overworld"}
+      ],
+      "textColor": "GREEN"
+    },
+
+    "world_nether": {
+      "localisedNames": [
+        {"de_de": "Nether"},
+        {"en_us": "Nether"}
+      ],
+      "textColor": "RED"
+    },
+
+    "world_the_end": {
+      "localisedNames": [
+        {"de_de": "Das Ende"},
+        {"en_us": "The End"}
+      ],
+      "textColor": "DARK_PURPLE"
+    }
+  }
+}
