@@ -3,3 +3,5 @@ build
 
 gradlew
 gradlew.bat
+
+tasks.gradle
